@@ -76,4 +76,35 @@ Casos de análisis:
 
 https://github.com/carlosMoragon/ing_sw_TruthPaper
 
+# 2º Cuatrimestre
+## Sistemas de Información para la Dirección Estratégica
+- Business Case
+- RFP
+- PowerBI
+- Examen de SIDE 2024
+
+## Gestión Operativa 
+- Departamento ISO 27001 (Práctica Final)
+- Breakpoint Technologies (Presentación de la empresa)
+- Apuntes:
+    + Tema 0: ITIL
+    + Tema 1: COBIT
+    + Tema 2: ITSM vs ISO 20.000 vs ITIL
+    + Tema 3: ISO 38500 
+    + Tema 4: BigData (He dividido el tema en 2, profundizando más en hadoop pero no es necesario)
+
+## Programación en Entornos Distribuidos
+- T1_ Tecnologías De Programación
+- T2: Sistema Control De Versiones
+- T2- TDD.pdf
+- T3- Programación y Redes
+- T4_ Tuberías y FIFOs
+- T5- Sockets.pdf
+- T6- Técnicas Avanzadas
+- T7- Unicode
+- Sockets (Apuntes de código)
+- Pipes y FIFOs (Apuntes de código)
+
+Todas las prácticas y los apuntes de katas están en el repositorio: https://github.com/PPerezdeMadrid/katas
+
 # Paloma Pérez de Madrid 
