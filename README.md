@@ -108,6 +108,6 @@ https://github.com/carlosMoragon/ing_sw_TruthPaper
 Todas las prácticas y los apuntes de katas están en el repositorio: https://github.com/PPerezdeMadrid/katas
 
 ## Administración de Sistemas (ASI) y Sistemas de Información II (SIE II)
-Se encuentran en el repositorio ![](https://github.com/PPerezdeMadrid/3_carrera2)
+Se encuentran en el repositorio https://github.com/PPerezdeMadrid/3_carrera2
 
 # Paloma Pérez de Madrid 
